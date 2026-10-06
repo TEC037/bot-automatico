@@ -1,0 +1,139 @@
+{
+  "concesionario": {
+    "nombre": "AutoPrime Concesionario & Compra-Venta",
+    "lema": "Vehículos seleccionados, peritados y garantizados",
+    "direccion": "Av. Las Américas 4500, Sector Automotriz",
+    "ciudad": "Ciudad Principal",
+    "horarios": "Lunes a Sábado: 8:30 AM a 6:30 PM. Domingos: Previa cita.",
+    "whatsapp_oficial": {
+      "numero": "+573001234567",
+      "enlace_directo": "https://wa.me/573001234567?text=Hola,%20vi%20un%20veh%C3%ADculo%20y%20quiero%20m%C3%A1s%20informaci%C3%B3n",
+      "asesor_principal": "Carlos Mendoza (Líder Comercial)",
+      "beneficio_whatsapp": "En WhatsApp enviamos al instante: video en 4K del auto, carpeta de peritaje técnico con 120 puntos mecánicos, historial de mantenimientos y simulador de crédito en tiempo real."
+    }
+  },
+  "politicas_negocio": {
+    "compra_vehiculos_retoma": {
+      "aceptan_usados": true,
+      "condicion": "Recibimos tu vehículo usado como parte de pago tras peritaje físico sin costo en sede.",
+      "anos_admitidos": "Modelos 2014 en adelante, sin siniestros estructurales ni embargos.",
+      "pago_inmediato": "Si solo deseas vender tu auto, transferimos en menos de 2 horas tras validación legal y de peritaje."
+    },
+    "garantia": {
+      "cobertura": "Garantía de 6 meses o 10,000 km en motor y transmisión en todos los usados certificados.",
+      "peritaje": "100% peritados y con certificado de tradición y libertad al día."
+    },
+    "financiacion": {
+      "disponible": true,
+      "cuota_inicial_desde": "Desde el 10% a 20% según perfil crediticio.",
+      "plazo_meses": "De 12 a 72 meses con bancos aliados (sin pagar comisiones extra).",
+      "requisito_rapido": "Aprobación preliminar por WhatsApp en 15 minutos solo con documento de identidad."
+    }
+  },
+  "embudo_ventas": {
+    "etapas": [
+      {
+        "id": "ETAPA_1_DESCUBRIMIENTO",
+        "objetivo": "Confirmar interés sobre el vehículo consultado o descubrir el tipo de auto que busca.",
+        "regla": "Saludar cordial y brevemente. Confirmar disponibilidad real según el inventario."
+      },
+      {
+        "id": "ETAPA_2_CUALIFICACION",
+        "objetivo": "Saber si es compra de contado, crédito o si deja auto en parte de pago.",
+        "regla": "Preguntar de forma casual y sin presionar: ¿Tienes pensado compra de contado, crédito o entregas tu usado?"
+      },
+      {
+        "id": "ETAPA_3_DETALLE_TECNICO",
+        "objetivo": "Entregar precio exacto, kilometraje y estado impecable.",
+        "regla": "No abrumar con textos largos. Máximo 2 o 3 párrafos concisos."
+      },
+      {
+        "id": "ETAPA_4_CIERRE_WHATSAPP",
+        "objetivo": "Llevar al prospecto a WhatsApp para agendar visita o enviar video/peritaje.",
+        "regla": "Recordar siempre el enlace de WhatsApp: https://wa.me/573001234567 para envío de video y peritaje inmediato."
+      }
+    ],
+    "disparador_humano": {
+      "condiciones": [
+        "El cliente hace ofertas de negociación agresivas o pide descuento directo",
+        "El cliente pide hablar explícitamente con un humano o supervisor",
+        "El cliente reporta reclamo o queja",
+        "El cliente consulta aspectos legales o cláusulas de traspaso muy específicas"
+      ],
+      "mensaje_transicion": "Con mucho gusto te comunico directamente con nuestro Gerente Comercial para revisar este caso especial: https://wa.me/573001234567"
+    }
+  },
+  "reglas_comunicacion_cadencia": {
+    "cooldown_minutos": 15,
+    "max_respuestas_por_hora": 4,
+    "estrategia_agrupacion": "Si el cliente envía varios mensajes seguidos, consolidar todas sus dudas en una sola respuesta elegante para evitar parecer spam.",
+    "objetivo_canal": "Todos los canales externos (Marketplace, Instagram, Web) tienen como objetivo supremo filtrar el lead y moverlo a WhatsApp."
+  },
+  "inventario": [
+    {
+      "id": "CAR-001",
+      "marca": "Mazda",
+      "modelo": "CX-5 Grand Touring LX",
+      "ano": 2021,
+      "kilometraje_km": 38500,
+      "transmision": "Automática Skyactiv-Drive 6 vel",
+      "motor": "2.5L Gasolina",
+      "color": "Rojo Diamante (Soul Red)",
+      "precio_contado_usd": 24900,
+      "precio_financiado_cuota_estimada_usd": 380,
+      "estado": "Disponible",
+      "caracteristicas": ["Techo corredizo", "Tracción AWD", "Cámara 360", "Sonido Bose", "Cojinería de cuero"],
+      "inspeccion": "Peritaje 98/100, llantas al 85%, único dueño, mantenimientos en concesionario oficial"
+    },
+    {
+      "id": "CAR-002",
+      "marca": "Toyota",
+      "modelo": "Corolla Cross XEI Hybrid",
+      "ano": 2023,
+      "kilometraje_km": 19200,
+      "transmision": "Automática e-CVT",
+      "motor": "1.8L Híbrido No Enchufable (Bajo consumo, exento de pico y placa)",
+      "color": "Blanco Perlado",
+      "precio_contado_usd": 27500,
+      "precio_financiado_cuota_estimada_usd": 420,
+      "estado": "Disponible",
+      "caracteristicas": ["Toyota Safety Sense", "Pantalla 9 pulgadas Apple CarPlay / Android Auto", "Consumo 75 km/gal"],
+      "inspeccion": "Garantía Toyota vigente hasta 2028, peritaje 100/100, sin reclamaciones"
+    },
+    {
+      "id": "CAR-003",
+      "marca": "Chevrolet",
+      "modelo": "Onix RS Turbo",
+      "ano": 2022,
+      "kilometraje_km": 31000,
+      "transmision": "Mecánica 5 vel",
+      "motor": "1.0L Turbo EcoTec (Muy ágil y económico)",
+      "color": "Negro Ébano",
+      "precio_contado_usd": 13900,
+      "precio_financiado_cuota_estimada_usd": 215,
+      "estado": "Disponible",
+      "caracteristicas": ["6 Airbags", "Control de estabilidad", "Wi-Fi nativo", "Rines negros 16 pulg"],
+      "inspeccion": "Peritaje certificado, batería nueva, 100% asegurable"
+    },
+    {
+      "id": "CAR-004",
+      "marca": "Renault",
+      "modelo": "Duster Intens 4x4",
+      "ano": 2022,
+      "kilometraje_km": 42000,
+      "transmision": "Mecánica 6 vel",
+      "motor": "1.3L Turbo TCe 154 hp",
+      "color": "Gris Cassiopée",
+      "precio_contado_usd": 17800,
+      "precio_financiado_cuota_estimada_usd": 280,
+      "estado": "Reservado",
+      "caracteristicas": ["Tracción 4x4 con selector", "Excelente despeje del suelo", "Cámara multivista"],
+      "inspeccion": "En proceso de reserva, pero se reciben interesados en lista de espera o modelos similares"
+    }
+  ],
+  "respuestas_frecuentes": {
+    "ubicacion_visitas": "Nuestra sala de exhibición principal queda en Av. Las Américas 4500. Puedes visitarnos de Lunes a Sábado de 8:30 AM a 6:30 PM para ver los autos en vivo y hacer prueba de ruta.",
+    "documentos_traspaso": "Todos nuestros vehículos están libres de prendas, embargos y multas. El traspaso se realiza ante tránsito garantizando total seguridad jurídica.",
+    "toman_moto_en_pago": "Por política corporativa solo recibimos automóviles y camionetas en parte de pago (modelos 2014 en adelante)."
+  }
+}

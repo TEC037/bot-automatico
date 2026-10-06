@@ -1,0 +1,650 @@
+[
+  {
+    "id": "CAR-101",
+    "name": "Mazda CX-5 Grand Touring LX AWD",
+    "brand": "Mazda",
+    "modelYear": 2022,
+    "mileageKm": 31500,
+    "fuelType": "Gasolina",
+    "transmission": "Automática",
+    "priceCop": 118000000,
+    "formattedPrice": "$118.000.000 COP",
+    "location": "Sede Tunja (Av. Oriental - Cra. 6 #52-23, frente a la Toyota)",
+    "soatExpiry": "2027-04-15",
+    "tecnoExpiry": "2027-04-15",
+    "url": "https://buyacar.com.co/cars/mazda-cx5-2022-tunja",
+    "images": [
+      "https://buyacar.com.co/wp-content/uploads/mazda-cx5-1.jpg"
+    ]
+  },
+  {
+    "id": "CAR-102",
+    "name": "Toyota Corolla Cross XEI Hybrid",
+    "brand": "Toyota",
+    "modelYear": 2023,
+    "mileageKm": 18200,
+    "fuelType": "Híbrido",
+    "transmission": "Automática e-CVT",
+    "priceCop": 126500000,
+    "formattedPrice": "$126.500.000 COP",
+    "location": "Sede Tunja (Av. Oriental - Cra. 6 #52-23, frente a la Toyota)",
+    "soatExpiry": "2027-06-20",
+    "tecnoExpiry": "2028-06-20",
+    "url": "https://buyacar.com.co/cars/toyota-corolla-cross-hybrid-2023",
+    "images": [
+      "https://buyacar.com.co/wp-content/uploads/toyota-cross-1.jpg"
+    ]
+  },
+  {
+    "id": "CAR-103",
+    "name": "Renault Duster Intens 1.3 Turbo 4x4",
+    "brand": "Renault",
+    "modelYear": 2022,
+    "mileageKm": 39000,
+    "fuelType": "Gasolina",
+    "transmission": "Mecánica 6 vel",
+    "priceCop": 82000000,
+    "formattedPrice": "$82.000.000 COP",
+    "location": "Sede Tunja (Av. Oriental - Cra. 6 #52-23, frente a la Toyota)",
+    "soatExpiry": "2026-11-10",
+    "tecnoExpiry": "2027-11-10",
+    "url": "https://buyacar.com.co/cars/renault-duster-intens-4x4-2022",
+    "images": [
+      "https://buyacar.com.co/wp-content/uploads/duster-1.jpg"
+    ]
+  },
+  {
+    "id": "CAR-104",
+    "name": "Chevrolet Onix RS Turbo",
+    "brand": "Chevrolet",
+    "modelYear": 2023,
+    "mileageKm": 22400,
+    "fuelType": "Gasolina",
+    "transmission": "Mecánica",
+    "priceCop": 64900000,
+    "formattedPrice": "$64.900.000 COP",
+    "location": "Sede Tunja (Av. Oriental - Cra. 6 #52-23, frente a la Toyota)",
+    "soatExpiry": "2027-01-30",
+    "tecnoExpiry": "2028-01-30",
+    "url": "https://buyacar.com.co/cars/chevrolet-onix-rs-2023",
+    "images": [
+      "https://buyacar.com.co/wp-content/uploads/onix-rs.jpg"
+    ]
+  },
+  {
+    "id": "CAR-105",
+    "name": "Kia Sportage GT Line 2.0",
+    "brand": "Kia",
+    "modelYear": 2021,
+    "mileageKm": 43000,
+    "fuelType": "Gasolina",
+    "transmission": "Automática",
+    "priceCop": 105000000,
+    "formattedPrice": "$105.000.000 COP",
+    "location": "Sede Tunja (Av. Oriental - Cra. 6 #52-23, frente a la Toyota)",
+    "soatExpiry": "2026-12-05",
+    "tecnoExpiry": "2026-12-05",
+    "url": "https://buyacar.com.co/cars/kia-sportage-gtline-2021",
+    "images": [
+      "https://buyacar.com.co/wp-content/uploads/sportage-1.jpg"
+    ]
+  },
+  {
+    "id": "CAR-106",
+    "name": "Volkswagen T-Cross Highline 200 TSI",
+    "brand": "Volkswagen",
+    "modelYear": 2022,
+    "mileageKm": 29800,
+    "fuelType": "Gasolina",
+    "transmission": "Tiptronic 6 vel",
+    "priceCop": 89000000,
+    "formattedPrice": "$89.000.000 COP",
+    "location": "Sede Tunja (Av. Oriental - Cra. 6 #52-23, frente a la Toyota)",
+    "soatExpiry": "2027-03-12",
+    "tecnoExpiry": "2027-03-12",
+    "url": "https://buyacar.com.co/cars/vw-t-cross-highline-2022",
+    "images": [
+      "https://buyacar.com.co/wp-content/uploads/tcross-1.jpg"
+    ]
+  },
+  {
+    "id": "CAR-107",
+    "name": "Suzuki Vitara AllGrip Live",
+    "brand": "Suzuki",
+    "modelYear": 2020,
+    "mileageKm": 51000,
+    "fuelType": "Gasolina",
+    "transmission": "Automática",
+    "priceCop": 76500000,
+    "formattedPrice": "$76.500.000 COP",
+    "location": "Sede Tunja (Av. Oriental - Cra. 6 #52-23, frente a la Toyota)",
+    "soatExpiry": "2026-10-25",
+    "tecnoExpiry": "2026-10-25",
+    "url": "https://buyacar.com.co/cars/suzuki-vitara-allgrip-2020",
+    "images": [
+      "https://buyacar.com.co/wp-content/uploads/vitara-1.jpg"
+    ]
+  },
+  {
+    "id": "CAR-108",
+    "name": "Ford Escape Titanium EcoBoost AWD",
+    "brand": "Ford",
+    "modelYear": 2021,
+    "mileageKm": 36700,
+    "fuelType": "Gasolina",
+    "transmission": "Automática 8 vel",
+    "priceCop": 114000000,
+    "formattedPrice": "$114.000.000 COP",
+    "location": "Sede Tunja (Av. Oriental - Cra. 6 #52-23, frente a la Toyota)",
+    "soatExpiry": "2027-02-18",
+    "tecnoExpiry": "2027-02-18",
+    "url": "https://buyacar.com.co/cars/ford-escape-titanium-2021",
+    "images": [
+      "https://buyacar.com.co/wp-content/uploads/escape-1.jpg"
+    ]
+  },
+  {
+    "id": "CAR-109",
+    "name": "Nissan Kicks Exclusive CVT",
+    "brand": "Nissan",
+    "modelYear": 2022,
+    "mileageKm": 33100,
+    "fuelType": "Gasolina",
+    "transmission": "CVT",
+    "priceCop": 84500000,
+    "formattedPrice": "$84.500.000 COP",
+    "location": "Sede Tunja (Av. Oriental - Cra. 6 #52-23, frente a la Toyota)",
+    "soatExpiry": "2027-05-14",
+    "tecnoExpiry": "2027-05-14",
+    "url": "https://buyacar.com.co/cars/nissan-kicks-exclusive-2022",
+    "images": [
+      "https://buyacar.com.co/wp-content/uploads/kicks-1.jpg"
+    ]
+  },
+  {
+    "id": "CAR-110",
+    "name": "Hyundai Tucson NX4 Limited 4WD",
+    "brand": "Hyundai",
+    "modelYear": 2023,
+    "mileageKm": 16500,
+    "fuelType": "Gasolina",
+    "transmission": "Automática",
+    "priceCop": 139000000,
+    "formattedPrice": "$139.000.000 COP",
+    "location": "Sede Tunja (Av. Oriental - Cra. 6 #52-23, frente a la Toyota)",
+    "soatExpiry": "2027-07-22",
+    "tecnoExpiry": "2028-07-22",
+    "url": "https://buyacar.com.co/cars/hyundai-tucson-nx4-2023",
+    "images": [
+      "https://buyacar.com.co/wp-content/uploads/tucson-1.jpg"
+    ]
+  },
+  {
+    "id": "CAR-111",
+    "name": "Mazda 3 Touring 2.0 Sedán",
+    "brand": "Mazda",
+    "modelYear": 2021,
+    "mileageKm": 37200,
+    "fuelType": "Gasolina",
+    "transmission": "Automática",
+    "priceCop": 83000000,
+    "formattedPrice": "$83.000.000 COP",
+    "location": "Sede Tunja (Av. Oriental - Cra. 6 #52-23, frente a la Toyota)",
+    "soatExpiry": "2026-11-29",
+    "tecnoExpiry": "2026-11-29",
+    "url": "https://buyacar.com.co/cars/mazda-3-touring-sedan-2021",
+    "images": [
+      "https://buyacar.com.co/wp-content/uploads/mazda3-1.jpg"
+    ]
+  },
+  {
+    "id": "CAR-112",
+    "name": "Toyota Hilux 2.4 Diésel 4x4",
+    "brand": "Toyota",
+    "modelYear": 2020,
+    "mileageKm": 68000,
+    "fuelType": "Diésel",
+    "transmission": "Mecánica 6 vel",
+    "priceCop": 165000000,
+    "formattedPrice": "$165.000.000 COP",
+    "location": "Sede Tunja (Av. Oriental - Cra. 6 #52-23, frente a la Toyota)",
+    "soatExpiry": "2027-01-15",
+    "tecnoExpiry": "2027-01-15",
+    "url": "https://buyacar.com.co/cars/toyota-hilux-4x4-2020",
+    "images": [
+      "https://buyacar.com.co/wp-content/uploads/hilux-1.jpg"
+    ]
+  },
+  {
+    "id": "CAR-113",
+    "name": "Renault Stepway Zen 1.6",
+    "brand": "Renault",
+    "modelYear": 2022,
+    "mileageKm": 34000,
+    "fuelType": "Gasolina",
+    "transmission": "Mecánica",
+    "priceCop": 58000000,
+    "formattedPrice": "$58.000.000 COP",
+    "location": "Sede Tunja (Av. Oriental - Cra. 6 #52-23, frente a la Toyota)",
+    "soatExpiry": "2027-03-08",
+    "tecnoExpiry": "2027-03-08",
+    "url": "https://buyacar.com.co/cars/renault-stepway-zen-2022",
+    "images": [
+      "https://buyacar.com.co/wp-content/uploads/stepway-1.jpg"
+    ]
+  },
+  {
+    "id": "CAR-114",
+    "name": "Chevrolet Tracker Turbo Premier",
+    "brand": "Chevrolet",
+    "modelYear": 2023,
+    "mileageKm": 21000,
+    "fuelType": "Gasolina",
+    "transmission": "Automática",
+    "priceCop": 96000000,
+    "formattedPrice": "$96.000.000 COP",
+    "location": "Sede Tunja (Av. Oriental - Cra. 6 #52-23, frente a la Toyota)",
+    "soatExpiry": "2027-08-11",
+    "tecnoExpiry": "2028-08-11",
+    "url": "https://buyacar.com.co/cars/chevrolet-tracker-premier-2023",
+    "images": [
+      "https://buyacar.com.co/wp-content/uploads/tracker-1.jpg"
+    ]
+  },
+  {
+    "id": "CAR-115",
+    "name": "Kia Rio Hatchback Zenith",
+    "brand": "Kia",
+    "modelYear": 2020,
+    "mileageKm": 47500,
+    "fuelType": "Gasolina",
+    "transmission": "Mecánica 6 vel",
+    "priceCop": 55900000,
+    "formattedPrice": "$55.900.000 COP",
+    "location": "Sede Tunja (Av. Oriental - Cra. 6 #52-23, frente a la Toyota)",
+    "soatExpiry": "2026-12-19",
+    "tecnoExpiry": "2026-12-19",
+    "url": "https://buyacar.com.co/cars/kia-rio-zenith-2020",
+    "images": [
+      "https://buyacar.com.co/wp-content/uploads/rio-1.jpg"
+    ]
+  },
+  {
+    "id": "CAR-116",
+    "name": "Jeep Renegade Longitude 1.8",
+    "brand": "Jeep",
+    "modelYear": 2021,
+    "mileageKm": 38900,
+    "fuelType": "Gasolina",
+    "transmission": "Automática",
+    "priceCop": 85000000,
+    "formattedPrice": "$85.000.000 COP",
+    "location": "Sede Tunja (Av. Oriental - Cra. 6 #52-23, frente a la Toyota)",
+    "soatExpiry": "2027-02-04",
+    "tecnoExpiry": "2027-02-04",
+    "url": "https://buyacar.com.co/cars/jeep-renegade-longitude-2021",
+    "images": [
+      "https://buyacar.com.co/wp-content/uploads/renegade-1.jpg"
+    ]
+  },
+  {
+    "id": "CAR-117",
+    "name": "Toyota Prado TX-L 3.0 Diésel",
+    "brand": "Toyota",
+    "modelYear": 2019,
+    "mileageKm": 82000,
+    "fuelType": "Diésel",
+    "transmission": "Automática 4x4",
+    "priceCop": 258000000,
+    "formattedPrice": "$258.000.000 COP",
+    "location": "Sede Tunja (Av. Oriental - Cra. 6 #52-23, frente a la Toyota)",
+    "soatExpiry": "2027-05-30",
+    "tecnoExpiry": "2027-05-30",
+    "url": "https://buyacar.com.co/cars/toyota-prado-txl-2019",
+    "images": [
+      "https://buyacar.com.co/wp-content/uploads/prado-1.jpg"
+    ]
+  },
+  {
+    "id": "CAR-118",
+    "name": "Mazda 2 Grand Touring Hatchback",
+    "brand": "Mazda",
+    "modelYear": 2022,
+    "mileageKm": 26000,
+    "fuelType": "Gasolina",
+    "transmission": "Automática",
+    "priceCop": 71500000,
+    "formattedPrice": "$71.500.000 COP",
+    "location": "Sede Tunja (Av. Oriental - Cra. 6 #52-23, frente a la Toyota)",
+    "soatExpiry": "2027-04-01",
+    "tecnoExpiry": "2027-04-01",
+    "url": "https://buyacar.com.co/cars/mazda-2-grand-touring-2022",
+    "images": [
+      "https://buyacar.com.co/wp-content/uploads/mazda2-1.jpg"
+    ]
+  },
+  {
+    "id": "CAR-119",
+    "name": "Nissan Frontier Pro-4X 4x4 Diésel",
+    "brand": "Nissan",
+    "modelYear": 2022,
+    "mileageKm": 41000,
+    "fuelType": "Diésel",
+    "transmission": "Automática",
+    "priceCop": 178000000,
+    "formattedPrice": "$178.000.000 COP",
+    "location": "Sede Tunja (Av. Oriental - Cra. 6 #52-23, frente a la Toyota)",
+    "soatExpiry": "2027-06-14",
+    "tecnoExpiry": "2027-06-14",
+    "url": "https://buyacar.com.co/cars/nissan-frontier-pro4x-2022",
+    "images": [
+      "https://buyacar.com.co/wp-content/uploads/frontier-1.jpg"
+    ]
+  },
+  {
+    "id": "CAR-120",
+    "name": "Volkswagen Amarok Highline 2.0 BiTurbo 4Motion",
+    "brand": "Volkswagen",
+    "modelYear": 2021,
+    "mileageKm": 54000,
+    "fuelType": "Diésel",
+    "transmission": "Automática 8 vel",
+    "priceCop": 149000000,
+    "formattedPrice": "$149.000.000 COP",
+    "location": "Sede Tunja (Av. Oriental - Cra. 6 #52-23, frente a la Toyota)",
+    "soatExpiry": "2027-01-22",
+    "tecnoExpiry": "2027-01-22",
+    "url": "https://buyacar.com.co/cars/vw-amarok-highline-2021",
+    "images": [
+      "https://buyacar.com.co/wp-content/uploads/amarok-1.jpg"
+    ]
+  },
+  {
+    "id": "CAR-121",
+    "name": "BMW X1 sDrive20i xLine",
+    "brand": "BMW",
+    "modelYear": 2020,
+    "mileageKm": 46000,
+    "fuelType": "Gasolina",
+    "transmission": "Automática Steptronic",
+    "priceCop": 128000000,
+    "formattedPrice": "$128.000.000 COP",
+    "location": "Sede Tunja (Av. Oriental - Cra. 6 #52-23, frente a la Toyota)",
+    "soatExpiry": "2026-11-18",
+    "tecnoExpiry": "2026-11-18",
+    "url": "https://buyacar.com.co/cars/bmw-x1-sdrive20i-2020",
+    "images": [
+      "https://buyacar.com.co/wp-content/uploads/bmwx1-1.jpg"
+    ]
+  },
+  {
+    "id": "CAR-122",
+    "name": "Mercedes-Benz GLA 200 Progressive",
+    "brand": "Mercedes-Benz",
+    "modelYear": 2021,
+    "mileageKm": 32000,
+    "fuelType": "Gasolina",
+    "transmission": "Automática 7G-DCT",
+    "priceCop": 145000000,
+    "formattedPrice": "$145.000.000 COP",
+    "location": "Sede Tunja (Av. Oriental - Cra. 6 #52-23, frente a la Toyota)",
+    "soatExpiry": "2027-03-25",
+    "tecnoExpiry": "2027-03-25",
+    "url": "https://buyacar.com.co/cars/mercedes-gla-200-2021",
+    "images": [
+      "https://buyacar.com.co/wp-content/uploads/gla200-1.jpg"
+    ]
+  },
+  {
+    "id": "CAR-123",
+    "name": "Audi Q3 35 TFSI Attraction",
+    "brand": "Audi",
+    "modelYear": 2021,
+    "mileageKm": 35400,
+    "fuelType": "Gasolina",
+    "transmission": "S Tronic 7 vel",
+    "priceCop": 139000000,
+    "formattedPrice": "$139.000.000 COP",
+    "location": "Sede Tunja (Av. Oriental - Cra. 6 #52-23, frente a la Toyota)",
+    "soatExpiry": "2027-04-10",
+    "tecnoExpiry": "2027-04-10",
+    "url": "https://buyacar.com.co/cars/audi-q3-35tfsi-2021",
+    "images": [
+      "https://buyacar.com.co/wp-content/uploads/audiq3-1.jpg"
+    ]
+  },
+  {
+    "id": "CAR-124",
+    "name": "Subaru Forester 2.5i Eyesight AWD",
+    "brand": "Subaru",
+    "modelYear": 2022,
+    "mileageKm": 27800,
+    "fuelType": "Gasolina",
+    "transmission": "Lineartronic CVT",
+    "priceCop": 129000000,
+    "formattedPrice": "$129.000.000 COP",
+    "location": "Sede Tunja (Av. Oriental - Cra. 6 #52-23, frente a la Toyota)",
+    "soatExpiry": "2027-05-19",
+    "tecnoExpiry": "2027-05-19",
+    "url": "https://buyacar.com.co/cars/subaru-forester-eyesight-2022",
+    "images": [
+      "https://buyacar.com.co/wp-content/uploads/forester-1.jpg"
+    ]
+  },
+  {
+    "id": "CAR-125",
+    "name": "Honda CR-V EXL 1.5 Turbo AWD",
+    "brand": "Honda",
+    "modelYear": 2020,
+    "mileageKm": 49000,
+    "fuelType": "Gasolina",
+    "transmission": "CVT",
+    "priceCop": 115000000,
+    "formattedPrice": "$115.000.000 COP",
+    "location": "Sede Tunja (Av. Oriental - Cra. 6 #52-23, frente a la Toyota)",
+    "soatExpiry": "2026-12-14",
+    "tecnoExpiry": "2026-12-14",
+    "url": "https://buyacar.com.co/cars/honda-crv-exl-2020",
+    "images": [
+      "https://buyacar.com.co/wp-content/uploads/crv-1.jpg"
+    ]
+  },
+  {
+    "id": "CAR-126",
+    "name": "Renault Kwid Outsider 1.0",
+    "brand": "Renault",
+    "modelYear": 2023,
+    "mileageKm": 18500,
+    "fuelType": "Gasolina",
+    "transmission": "Mecánica",
+    "priceCop": 43500000,
+    "formattedPrice": "$43.500.000 COP",
+    "location": "Sede Tunja (Av. Oriental - Cra. 6 #52-23, frente a la Toyota)",
+    "soatExpiry": "2027-07-02",
+    "tecnoExpiry": "2028-07-02",
+    "url": "https://buyacar.com.co/cars/renault-kwid-outsider-2023",
+    "images": [
+      "https://buyacar.com.co/wp-content/uploads/kwid-1.jpg"
+    ]
+  },
+  {
+    "id": "CAR-127",
+    "name": "Chevrolet Captiva Premier 7 Pasajeros",
+    "brand": "Chevrolet",
+    "modelYear": 2021,
+    "mileageKm": 44000,
+    "fuelType": "Gasolina",
+    "transmission": "CVT",
+    "priceCop": 88000000,
+    "formattedPrice": "$88.000.000 COP",
+    "location": "Sede Tunja (Av. Oriental - Cra. 6 #52-23, frente a la Toyota)",
+    "soatExpiry": "2027-02-28",
+    "tecnoExpiry": "2027-02-28",
+    "url": "https://buyacar.com.co/cars/chevrolet-captiva-premier-2021",
+    "images": [
+      "https://buyacar.com.co/wp-content/uploads/captiva-1.jpg"
+    ]
+  },
+  {
+    "id": "CAR-128",
+    "name": "Toyota Fortuner SW4 2.8 Diésel 4x4",
+    "brand": "Toyota",
+    "modelYear": 2021,
+    "mileageKm": 56000,
+    "fuelType": "Diésel",
+    "transmission": "Automática",
+    "priceCop": 235000000,
+    "formattedPrice": "$235.000.000 COP",
+    "location": "Sede Tunja (Av. Oriental - Cra. 6 #52-23, frente a la Toyota)",
+    "soatExpiry": "2027-04-18",
+    "tecnoExpiry": "2027-04-18",
+    "url": "https://buyacar.com.co/cars/toyota-fortuner-sw4-2021",
+    "images": [
+      "https://buyacar.com.co/wp-content/uploads/fortuner-1.jpg"
+    ]
+  },
+  {
+    "id": "CAR-129",
+    "name": "Kia Picanto GT Line 1.25",
+    "brand": "Kia",
+    "modelYear": 2022,
+    "mileageKm": 29000,
+    "fuelType": "Gasolina",
+    "transmission": "Automática",
+    "priceCop": 54000000,
+    "formattedPrice": "$54.000.000 COP",
+    "location": "Sede Tunja (Av. Oriental - Cra. 6 #52-23, frente a la Toyota)",
+    "soatExpiry": "2027-01-10",
+    "tecnoExpiry": "2027-01-10",
+    "url": "https://buyacar.com.co/cars/kia-picanto-gtline-2022",
+    "images": [
+      "https://buyacar.com.co/wp-content/uploads/picanto-1.jpg"
+    ]
+  },
+  {
+    "id": "CAR-130",
+    "name": "Ford Ranger XLT 3.2 Diésel 4x4",
+    "brand": "Ford",
+    "modelYear": 2020,
+    "mileageKm": 69000,
+    "fuelType": "Diésel",
+    "transmission": "Automática 6 vel",
+    "priceCop": 142000000,
+    "formattedPrice": "$142.000.000 COP",
+    "location": "Sede Tunja (Av. Oriental - Cra. 6 #52-23, frente a la Toyota)",
+    "soatExpiry": "2026-11-23",
+    "tecnoExpiry": "2026-11-23",
+    "url": "https://buyacar.com.co/cars/ford-ranger-xlt-2020",
+    "images": [
+      "https://buyacar.com.co/wp-content/uploads/ranger-1.jpg"
+    ]
+  },
+  {
+    "id": "CAR-131",
+    "name": "Suzuki Swift Híbrido GLX",
+    "brand": "Suzuki",
+    "modelYear": 2023,
+    "mileageKm": 17200,
+    "fuelType": "Híbrido Ligero",
+    "transmission": "Mecánica",
+    "priceCop": 66000000,
+    "formattedPrice": "$66.000.000 COP",
+    "location": "Sede Tunja (Av. Oriental - Cra. 6 #52-23, frente a la Toyota)",
+    "soatExpiry": "2027-06-30",
+    "tecnoExpiry": "2028-06-30",
+    "url": "https://buyacar.com.co/cars/suzuki-swift-hybrid-2023",
+    "images": [
+      "https://buyacar.com.co/wp-content/uploads/swift-1.jpg"
+    ]
+  },
+  {
+    "id": "CAR-132",
+    "name": "Hyundai Creta Grand 7 Pasajeros",
+    "brand": "Hyundai",
+    "modelYear": 2023,
+    "mileageKm": 24000,
+    "fuelType": "Gasolina",
+    "transmission": "Automática",
+    "priceCop": 98500000,
+    "formattedPrice": "$98.500.000 COP",
+    "location": "Sede Tunja (Av. Oriental - Cra. 6 #52-23, frente a la Toyota)",
+    "soatExpiry": "2027-05-09",
+    "tecnoExpiry": "2028-05-09",
+    "url": "https://buyacar.com.co/cars/hyundai-creta-grand-2023",
+    "images": [
+      "https://buyacar.com.co/wp-content/uploads/creta-1.jpg"
+    ]
+  },
+  {
+    "id": "CAR-133",
+    "name": "Volkswagen Taos Highline 250 TSI",
+    "brand": "Volkswagen",
+    "modelYear": 2022,
+    "mileageKm": 28500,
+    "fuelType": "Gasolina",
+    "transmission": "Tiptronic 6 vel",
+    "priceCop": 112000000,
+    "formattedPrice": "$112.000.000 COP",
+    "location": "Sede Tunja (Av. Oriental - Cra. 6 #52-23, frente a la Toyota)",
+    "soatExpiry": "2027-03-17",
+    "tecnoExpiry": "2027-03-17",
+    "url": "https://buyacar.com.co/cars/vw-taos-highline-2022",
+    "images": [
+      "https://buyacar.com.co/wp-content/uploads/taos-1.jpg"
+    ]
+  },
+  {
+    "id": "CAR-134",
+    "name": "Nissan Qashqai Exclusive AWD",
+    "brand": "Nissan",
+    "modelYear": 2023,
+    "mileageKm": 19500,
+    "fuelType": "Gasolina",
+    "transmission": "Xtronic CVT",
+    "priceCop": 133000000,
+    "formattedPrice": "$133.000.000 COP",
+    "location": "Sede Tunja (Av. Oriental - Cra. 6 #52-23, frente a la Toyota)",
+    "soatExpiry": "2027-07-15",
+    "tecnoExpiry": "2028-07-15",
+    "url": "https://buyacar.com.co/cars/nissan-qashqai-exclusive-2023",
+    "images": [
+      "https://buyacar.com.co/wp-content/uploads/qashqai-1.jpg"
+    ]
+  },
+  {
+    "id": "CAR-135",
+    "name": "Chevrolet Colorado High Country 4x4 Diésel",
+    "brand": "Chevrolet",
+    "modelYear": 2022,
+    "mileageKm": 48000,
+    "fuelType": "Diésel",
+    "transmission": "Automática 6 vel",
+    "priceCop": 159000000,
+    "formattedPrice": "$159.000.000 COP",
+    "location": "Sede Tunja (Av. Oriental - Cra. 6 #52-23, frente a la Toyota)",
+    "soatExpiry": "2027-02-11",
+    "tecnoExpiry": "2027-02-11",
+    "url": "https://buyacar.com.co/cars/chevrolet-colorado-highcountry-2022",
+    "images": [
+      "https://buyacar.com.co/wp-content/uploads/colorado-1.jpg"
+    ]
+  },
+  {
+    "id": "CAR-136",
+    "name": "Mazda CX-30 Grand Touring 2.5",
+    "brand": "Mazda",
+    "modelYear": 2022,
+    "mileageKm": 31000,
+    "fuelType": "Gasolina",
+    "transmission": "Automática Skyactiv",
+    "priceCop": 102000000,
+    "formattedPrice": "$102.000.000 COP",
+    "location": "Sede Tunja (Av. Oriental - Cra. 6 #52-23, frente a la Toyota)",
+    "soatExpiry": "2027-04-20",
+    "tecnoExpiry": "2027-04-20",
+    "url": "https://buyacar.com.co/cars/mazda-cx30-grandtouring-2022",
+    "images": [
+      "https://buyacar.com.co/wp-content/uploads/cx30-1.jpg"
+    ]
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": "APT-1791315062443-720",
+    "chatId": "user_legit_test",
+    "channel": "whatsapp",
+    "customerName": "Cliente Legítimo",
+    "vehicleId": "CAR-101",
+    "vehicleName": "Mazda CX-5 Grand Touring LX AWD",
+    "date": "2026-10-17",
+    "timeSlot": "11:00",
+    "durationMinutes": 60,
+    "status": "CONFIRMED",
+    "createdAt": "2026-10-06T19:31:02.443Z"
+  }
+]

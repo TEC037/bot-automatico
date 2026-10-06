@@ -1,0 +1,48 @@
+[
+  {
+    "chatId": "user_angry",
+    "channel": "facebook_marketplace",
+    "customerName": "Prospecto BuyaCar",
+    "stage": "HUMAN_TAKEOVER",
+    "score": 30,
+    "notes": [
+      "Lead creado desde canal facebook_marketplace"
+    ],
+    "createdAt": "2026-10-06T19:30:53.034Z",
+    "updatedAt": "2026-10-06T19:30:53.035Z",
+    "conversationHistory": [
+      {
+        "role": "user",
+        "content": "Quiero hablar con un asesor real humano o gerente comercial",
+        "timestamp": "2026-10-06T19:30:53.034Z"
+      }
+    ],
+    "lastMessageText": "Quiero hablar con un asesor real humano o gerente comercial"
+  },
+  {
+    "chatId": "user_carlos",
+    "channel": "facebook_marketplace",
+    "customerName": "Prospecto BuyaCar",
+    "vehicleInterestId": "CAR-101",
+    "stage": "PROSPECT",
+    "score": 35,
+    "notes": [
+      "Lead creado desde canal facebook_marketplace"
+    ],
+    "createdAt": "2026-10-06T19:30:53.037Z",
+    "updatedAt": "2026-10-06T19:30:57.159Z",
+    "conversationHistory": [
+      {
+        "role": "user",
+        "content": "Hola, ¿tienen la Mazda CX-5 en Tunja?",
+        "timestamp": "2026-10-06T19:30:53.037Z"
+      },
+      {
+        "role": "assistant",
+        "content": "¡Hola! Tenemos la Mazda CX-5 en Tunja por $118.000.000 COP con peritaje certificado.\n📲 Escríbenos a WhatsApp: https://wa.me/573151212223?text=Hola,%20vi%20un%20auto%20en%20BuyaCar%20y%20quiero%20m%C3%A1s%20informaci%C3%B3n",
+        "timestamp": "2026-10-06T19:30:57.159Z"
+      }
+    ],
+    "lastMessageText": "Hola, ¿tienen la Mazda CX-5 en Tunja?"
+  }
+]
